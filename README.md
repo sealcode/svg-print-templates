@@ -1,6 +1,7 @@
 # Svg print templates
 
-An svg template and a bunch of scripts to ease creation of printed material in InkScape
+An svg template and a bunch of scripts to ease creation of printed 
+material in Inkscape
 
 
 ## Files 
