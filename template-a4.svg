@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="template.svg"
+   sodipodi:docname="template-a4.svg"
    inkscape:export-filename="/home/kuba/projects/sealcode/bezpieczenstwo-w-internecie/ulotka/strona2.svg.png"
    inkscape:export-xdpi="200.03569"
    inkscape:export-ydpi="200.03569">
@@ -139,12 +139,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79123657"
-     inkscape:cx="361.0807"
-     inkscape:cy="1049.5161"
+     inkscape:zoom="0.54721376"
+     inkscape:cx="458.0789"
+     inkscape:cy="587.57117"
      inkscape:document-units="cm"
-     inkscape:current-layer="g4419"
-     showgrid="false"
+     inkscape:current-layer="layer1"
+     showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="900"
      inkscape:window-x="0"
@@ -162,52 +162,76 @@
        spacingy="35.433071"
        empspacing="10" />
     <sodipodi:guide
-       position="70.866141,0"
+       position="70.866141,531.49607"
        orientation="1,0"
        id="guide4411"
-       inkscape:label=""
-       inkscape:color="rgb(255,0,54)" />
+       inkscape:label="Content MUST end here"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="0,70.866143"
+       position="531.49606,70.866143"
        orientation="0,1"
        id="guide4413"
-       inkscape:label=""
-       inkscape:color="rgb(255,0,22)" />
+       inkscape:label="Content MUST end here"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="814.96062,731.86623"
        orientation="1,0"
        id="guide4415"
-       inkscape:label=""
-       inkscape:color="rgb(255,0,0)" />
+       inkscape:label="Content MUST end here"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="-445.48378,1123.2284"
+       position="531.49606,1123.2284"
        orientation="0,1"
        id="guide4417"
-       inkscape:label=""
-       inkscape:color="rgb(255,0,11)" />
+       inkscape:label="Content MUST end here"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="825.59054,1031.304"
        orientation="1,0"
        id="guide4664"
-       inkscape:label=""
+       inkscape:label="Fill bleed up to here"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="240.41498,1133.8583"
        orientation="0,1"
        id="guide4666"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="60.23622,1127.6608"
-       orientation="1,0"
-       id="guide4668"
-       inkscape:label=""
+       inkscape:label="Fill bleed up to here"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="376.84094,60.236221"
        orientation="0,1"
        id="guide4670"
-       inkscape:label=""
+       inkscape:label="Fill bleed down to here"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="106.29921,951.8823"
+       orientation="1,0"
+       id="guide4174"
+       inkscape:label="Suggested main content margin"
+       inkscape:color="rgb(76,170,80)" />
+    <sodipodi:guide
+       position="303.49749,1087.7953"
+       orientation="0,1"
+       id="guide4178"
+       inkscape:label="Suggested main content margin"
+       inkscape:color="rgb(56,118,59)" />
+    <sodipodi:guide
+       position="779.52755,878.91734"
+       orientation="1,0"
+       id="guide4180"
+       inkscape:label="Suggested main content margin"
+       inkscape:color="rgb(76,170,80)" />
+    <sodipodi:guide
+       position="386.04881,106.29921"
+       orientation="0,1"
+       id="guide4182"
+       inkscape:label="Suggested main content margin"
+       inkscape:color="rgb(76,170,80)" />
+    <sodipodi:guide
+       position="60.23622,826.32255"
+       orientation="1,0"
+       id="guide4181"
+       inkscape:label="Fill bleed up to here"
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
